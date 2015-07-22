@@ -73,3 +73,6 @@ body{
 #social-media ul li{
 display: inline;
 }
+#social-media{
+	padding-top: 10px;
+}
